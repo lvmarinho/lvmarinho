@@ -26,5 +26,7 @@
  
   <img align="center" alt="leandro-spring" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  
+   <img align="center" alt="leandro-spring" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+ 
  
 </div>
