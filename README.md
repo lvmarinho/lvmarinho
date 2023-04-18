@@ -17,7 +17,7 @@
  
 <img align="center" alt="leandro-css" height="70" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 
-<img align="center" alt="leandro-javascript" height="70" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="leandro-javascript" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  
 <img align="center" alt="leandro-java" height="70" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
  
