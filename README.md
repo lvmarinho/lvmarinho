@@ -1,5 +1,5 @@
- ### Olá,meu nome é Leandro Vitorino 🙋🏿‍♂️😉 
- ###  Sou formando em Analise e Desenvolvimento de Sistemas e desenvolvo projetos usando Java , SpringBoot e Angular
+ ### Meu nome é Leandro Vitorino 🙋🏿‍♂️😉 
+ ### Formado em Analise e Desenvolvimento de Sistemas pela UNISUAM no Río de Janeiro e focado em projetos backend usando Java , SpringBoot e Angular
 
 <div>
 <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=lvmarinho&show_icons=true&theme=tokyonight"/>
